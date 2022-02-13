@@ -15,4 +15,15 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=stepByStepCode&fontSize=70)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+ 
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+ 
+![Html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=black)
+
+![java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=black)
+
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=black)
+
+![aws](https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=Amazon&logoColor=black)
+ 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black)
