@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=step by step Code&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=stepByStep Code&fontSize=70)
